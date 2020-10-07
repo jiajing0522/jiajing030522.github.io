@@ -1,6 +1,17 @@
 <head>
 <meta charset="utf-8"/>
+<style type="text/css">
 
+body {background-color: yellow}
+h1 {background-color: #00ff00}
+h2 {background-color: transparent}
+p {background-color: rgb(250,0,255)}
+
+p.no2 {background-color: gray; padding: 20px;}
+
+</style>
+
+</head>
 <body>
   <h1>成长经历</h1>
   <p>在2003年一个平凡的中午，吉林省的一个小山城里，降生了两个普普通通的婴儿。她们分别是大田和小田。（嘻嘻，小田就是我啦！）在一家人的悉心照料下，小田快乐的茁壮成长。妈妈每天打理家务，爸爸勤奋工作，奶奶给家中掌勺，姐姐陪我一起成长。历经了17年中规中矩的成长历程，小田第一次张开了翅膀，成为了一名PKUer，在燕园开启了一段新的人生旅程！</p>
@@ -27,8 +38,5 @@
  <img src="校徽.jpg">
  <img src="故宫游.jpg">
  <img src="国旗班.jpg">
-img 跳舞.jpg
-{
-height:30px
-}
+
 
