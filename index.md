@@ -19,5 +19,9 @@
  <li>乒乓球（当然不是大佬啦）</li>
  <li>篮球（迫于高度近视而终止了这个爱好）</li>
  </ul>
+ <img src="跳舞.jpg">
+ <img src="游泳.jpg">
+ <img src="乒乓球.jpg">
+ <img src="篮球.jpg">
  
 
