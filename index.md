@@ -27,11 +27,5 @@
  <img src="校徽.jpg">
  <img src="故宫游.jpg">
  <img src="国旗班.jpg">
- img.跳舞
- {
- height:30px
- }
- <img class="跳舞" src="跳舞.jpg" />
-<br />
 
 
