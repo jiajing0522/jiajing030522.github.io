@@ -27,47 +27,6 @@
  <img src="校徽.jpg">
  <img src="故宫游.jpg">
  <img src="国旗班.jpg">
- <style>
-div.background
-{
-  width: 400px;
-  height: 266px;
-  background: url('/i/tulip_peach_blossom_w.jpg') no-repeat;
-  border: 1px solid black;
-}
-
-div.transbox
-{
-  width: 338px;
-  height: 204px;
-  margin:30px;
-  background-color: #ffffff;
-  border: 1px solid black;
-  /* for IE */
-  filter:alpha(opacity=60);
-  /* CSS3 standard */
-  opacity:0.6;
-}
-
-div.transbox p
-{
-  margin: 30px 40px;
-}
-</style>
-</head>
-
-<body>
-
-<div class="background">
-<div class="transbox">
-<p>
-This is some text that is placed in the transparent box.
-This is some text that is placed in the transparent box.
-This is some text that is placed in the trans
-</p>
-</div>
-</div>
-
-</body>
  
+
 
