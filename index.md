@@ -2,16 +2,11 @@
 <meta charset="utf-8"/>
 <style type="text/css">
 <head>
-body {background-color: blue}
-h1 {color:#00ff00}
-p{color:white}
-h2 {background-color: transparent}
-p {background-color: rgb(250,0,255)}
-
-p.no2 {background-color: gray; padding: 20px;}
-
+<style type="text/css">
+h1 {letter-spacing: 0.5em}
+h3 {letter-spacing: 5px}
 </style>
-
+</head>
 </head>
 <body>
   <h1>成长经历</h1>
