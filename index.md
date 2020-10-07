@@ -3,7 +3,6 @@
 <style type="text/css">
 
 body {background-color: blue}
-h1 {background-color: yellow}
 h2 {background-color: transparent}
 p {background-color: rgb(250,0,255)}
 
