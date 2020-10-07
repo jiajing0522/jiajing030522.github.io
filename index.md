@@ -1,7 +1,22 @@
 <head>
 <meta charset="utf-8"/>
 <style type="text/css">
+<style>
+body {
+    background-image: url("paper.gif");
+}
+</style>
 
+<script>
+var _hmt = _hmt || [];
+(function() {
+var hm = document.createElement("script");
+hm.src = "//hm.baidu.com/hm.js?73c27e26f610eb3c9f3feb0c75b03925";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</head>
 <body>
   <h1>成长经历</h1>
   <p>在2003年一个平凡的中午，吉林省的一个小山城里，降生了两个普普通通的婴儿。她们分别是大田和小田。（嘻嘻，小田就是我啦！）在一家人的悉心照料下，小田快乐的茁壮成长。妈妈每天打理家务，爸爸勤奋工作，奶奶给家中掌勺，姐姐陪我一起成长。历经了17年中规中矩的成长历程，小田第一次张开了翅膀，成为了一名PKUer，在燕园开启了一段新的人生旅程！</p>
