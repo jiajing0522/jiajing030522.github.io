@@ -1,6 +1,12 @@
 <head>
 <meta charset="utf-8"/>
 <style type="text/css">
+<head>
+<style type="text/css">
+h1 {letter-spacing: 5em}
+h4 {letter-spacing: 5px}
+</style>
+</head>
 
 body {background-color: blue}
 h1 {color:#00ff00}
