@@ -1,6 +1,5 @@
 <head>
 <meta charset="utf-8"/>
-<title>田镓境的first website</title>
 
 <body>
   <h1>成长经历</h1>
