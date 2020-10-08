@@ -40,7 +40,7 @@ s.parentNode.insertBefore(hm, s);
  <img src="游泳.jpg">
  <img src="乒乓球.jpg">
  <img src="篮球.jpg">
- <h2 style="background-color:rgb(165,150,165)>生活片段节选</h2>
+ <h2 style="background-color:rgb(165,150,165)">生活片段节选</h2>
  <p>来到PKU的日子总是欢乐多多。从第一次带上北京大学的校徽，我就融入了这个大家庭之中。军训期间，国旗班的训练让我收获了意志和满满的光荣感；上课期间，知识与新技能的学习让我倍感新奇；班级团建时，故宫的古典韵味让我叹为观止。</p>
  <img src="校徽.jpg">
  <img src="故宫游.jpg">
