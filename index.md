@@ -60,7 +60,7 @@ s.parentNode.insertBefore(hm, s);
  <h2 style="background-color:rgb(150,200,150)">小众爱好</h2>
  <p>听古风音乐加摘录歌词。下面是我比较喜欢的几首歌，大家可以直接点开了解歌曲信息。
     <a href="https://baike.baidu.com/item/锦鲤抄/2271694?fr=aladdin">锦鲤抄</a>
-    <a href="https://baike.baidu.com/item/不老梦/19837575?fr=aladdin>不老梦</a>
+    <a href="https://baike.baidu.com/item/不老梦/19837575?fr=aladdin">不老梦</a>
    </p>
  
  
