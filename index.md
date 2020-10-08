@@ -81,6 +81,13 @@ s.parentNode.insertBefore(hm, s);
   <p>  <a  href="https://baike.baidu.com/item/不老梦/19837575?fr=aladdin">不老梦</a></p>
   
   <p> <a   href="https://baike.baidu.com/item/白马入芦花/22853376?fr=aladdin">白马入芦花</a></p>
+  <p id="demo"  style="font-size:30px;">前途似海，来日方长。</p>
+<p id="demo"  style="font-size:30px;">跃入人海，各有风雨灿烂。</p>
+<p id="demo"  style="font-size:30px;">且怀着勇气与坚定上路吧，</p>
+<p id="demo"  style="font-size:30px;">迎接我们的定是明亮星辰，似锦前程！</p>
+
+<button type="button" onclick="document.getElementById('demo').innerHTML = '没什么能阻挡，梦想的力量，这一刻，就让我迎风而上！！！'">
+励(bu)志(shi)</button>
    
  
  
