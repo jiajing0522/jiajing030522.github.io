@@ -66,9 +66,15 @@ s.parentNode.insertBefore(hm, s);
  width="300" height="300">
  <h2 style="background-color:rgb(165,150,165)">生活片段节选</h2>
  <p class="dotted">来到PKU的日子总是欢乐多多。从第一次带上北京大学的校徽，我就融入了这个大家庭之中。军训期间，国旗班的训练让我收获了意志和满满的光荣感；上课期间，知识与新技能的学习让我倍感新奇；班级团建时，故宫的古典韵味让我叹为观止。</p>
- <img src="校徽.jpg">
- <img src="故宫游.jpg">
- <img src="国旗班.jpg">
+ <img
+ src="校徽.jpg"
+ width="700" height="700">
+ <img 
+ src="故宫游.jpg"
+ width="700" height="700">
+ <img 
+ src="国旗班.jpg"
+ width="700" height="700">
  <h2 style="background-color:rgb(150,200,150)">小众爱好</h2>
  <p>听古风音乐加摘录歌词。下面是我比较喜欢的几首歌，大家可以直接点开了解歌曲信息。</p>
  <p>   <a href="https://baike.baidu.com/item/锦鲤抄/2271694?fr=aladdin">锦鲤抄</a></p>
