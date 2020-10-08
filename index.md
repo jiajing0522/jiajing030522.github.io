@@ -87,7 +87,7 @@ s.parentNode.insertBefore(hm, s);
 <p id="demo"  style="font-size:30px;">迎接我们的定是明亮星辰，似锦前程！</p>
 
 <button type="button" onclick="document.getElementById('demo').innerHTML = '没什么能阻挡，梦想的力量，这一刻，就让我迎风而上！！！'">
-励(bu)志(shi)</button>
+励(bu)志(shi)宣言</button>
    
  
  
