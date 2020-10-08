@@ -53,10 +53,6 @@ s.parentNode.insertBefore(hm, s);
  alt="跳舞"
  width="300" height="300">
  <img 
- src="游泳.jpg"
- alt="游泳"
- width="300" height="300">
- <img 
  src="乒乓球.jpg"
  alt="乒乓球"
  width="300" height="300">
