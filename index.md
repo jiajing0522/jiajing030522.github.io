@@ -75,9 +75,9 @@ s.parentNode.insertBefore(hm, s);
  width="700" height="700">
  <h2 style="background-color:rgb(150,200,150)">小众爱好</h2>
  <p  style="font-size:20px;">听古风音乐加摘录歌词。下面是我比较喜欢的几首歌，大家可以直接点开了解歌曲信息。</p>
- <p>   <a   style="font-size:25px;"href="https://baike.baidu.com/item/锦鲤抄/2271694?fr=aladdin">锦鲤抄</a></p>
-  <p>  <a   style="font-size:25px;"href="https://baike.baidu.com/item/不老梦/19837575?fr=aladdin">不老梦</a></p>
-  <p> <a   style="font-size:25px;"href="https://baike.baidu.com/item/白马入芦花/22853376?fr=aladdin">白马入芦花</a></p>
+ <p>   <a  href="https://baike.baidu.com/item/锦鲤抄/2271694?fr=aladdin">锦鲤抄</a></p>
+  <p>  <a  href="https://baike.baidu.com/item/不老梦/19837575?fr=aladdin">不老梦</a></p>
+  <p> <a   href="https://baike.baidu.com/item/白马入芦花/22853376?fr=aladdin">白马入芦花</a></p>
    
  
  
