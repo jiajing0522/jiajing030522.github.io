@@ -28,7 +28,7 @@ s.parentNode.insertBefore(hm, s);
   <p>  体重：轻飘飘</p>
   <p>  外貌特点：不喜打扮，高度近视（看电视剧看的）</p>
    <p>性格自评：热情率真爱热闹，不拘小节常欢笑（其实有点天然呆）</p>
-   <h3>兴趣爱好简介</h3>
+   <h2 style="background-color:rgb(150,150,150)">兴趣爱好简介</h2>
    <ul>
  <li>跳舞（跳的不是很好，主要是图个happy）</li>
  <li>游泳（超级喜欢float的感觉）</li>
@@ -39,7 +39,7 @@ s.parentNode.insertBefore(hm, s);
  <img src="游泳.jpg">
  <img src="乒乓球.jpg">
  <img src="篮球.jpg">
- <h4>生活片段节选</h4>
+ <h2 style="backgroune-color:rgb(200,150,165)>生活片段节选</h2>
  <p>来到PKU的日子总是欢乐多多。从第一次带上北京大学的校徽，我就融入了这个大家庭之中。军训期间，国旗班的训练让我收获了意志和满满的光荣感；上课期间，知识与新技能的学习让我倍感新奇；班级团建时，故宫的古典韵味让我叹为观止。</p>
  <img src="校徽.jpg">
  <img src="故宫游.jpg">
